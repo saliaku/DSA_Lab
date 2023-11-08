@@ -59,6 +59,7 @@
   "files.associations": {
     "*.embeddedhtml": "html",
     "iosfwd": "cpp",
-    "fstream": "cpp"
+    "fstream": "cpp",
+    "*.tcc": "cpp"
   }
 }
