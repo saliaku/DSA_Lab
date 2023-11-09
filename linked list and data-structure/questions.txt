@@ -1,0 +1,22 @@
+1.Given the head of a singly linked list, return the middle node of the linked list. If there are two middle nodes, return the second middle node.
+
+2.Given head, the head of a linked list, determine if the linked list has a cycle in it. There is a cycle in a linked list if there is some node in the list that can be reached again by continuously following the next pointer.
+
+3.Given a linked list, and a number N. Find the Nth node from the end of this linked list and delete it. Return the head of the new modified linked list.
+
+4.Given the head of a singly linked list, write a program to reverse the linked list, and return the head pointer to the reversed list.
+
+5.Inorder,preorder and postorder of binary tree.
+
+6.Topview,bottom view,left view ,right view of binary tree.
+
+7.Root to node path in binary tree.
+
+8.Level order,zig zag,boundary traversals of binary tree.
+
+9.Lowest Common Ancestor for two given Nodes.
+
+10.Construct a binary tree from inorder and post order traversals.
+
+
+Note:For questions 5 to 10 create a binary tree of your own minimum of 8 nodes.

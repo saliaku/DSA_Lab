@@ -68,10 +68,7 @@ int main()
     {
         for(int j=0;j<100;j++)
         {
-            if(cin.peek() == '\n') {
-        // Leave the for loop
-        break;
-        }
+           
             infile1>>A[i][j];
         }
     }
@@ -83,29 +80,18 @@ int main()
     {
         for(int j=0;j<100;j++)
         {
-            if(cin.peek() == '\n') {
-        // Leave the for loop
-        break;
-        }
             infile2>>B[i][j];
         }
     }
 
-    //cout<<"hello2";
-    char *z;
-
-    // cout<<"hello3";
-    z=function(p,q);
-
-    for(int i=0;z[i]!='\0';i++)
-        cout<<&A[i];
-
-
-    // for(int i=0;p[i]!='\0';i++)
-    //     cout<<p[i];
-
-    // for(int i=0;q[i]!='\0';i++)
-    //     cout<<q[i];
+    for( int i=0 ; i<100 ; i++ )
+    {
+        for(int j=0;j<100;j++)
+        {
+           
+            cout<<A[i][j];
+        }
+    }
 
     return 0;
 
