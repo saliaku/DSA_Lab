@@ -20,3 +20,6 @@
 
 
 Note:For questions 5 to 10 create a binary tree of your own minimum of 8 nodes.
+
+
+todo 10 9 8 6
